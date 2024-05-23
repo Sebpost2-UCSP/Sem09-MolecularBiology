@@ -1,1 +1,0 @@
-gap = 1; gap < n; gap++
