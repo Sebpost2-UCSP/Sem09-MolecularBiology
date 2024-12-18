@@ -1,5 +1,0 @@
-﻿  NW_V2.cpp
-D:\Universidad\Semestre 9\Biologia\Needleman_WunschV2\Needleman_WunschV2\NW_V2.cpp(85,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-D:\Universidad\Semestre 9\Biologia\Needleman_WunschV2\Needleman_WunschV2\NW_V2.cpp(86,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-D:\Universidad\Semestre 9\Biologia\Needleman_WunschV2\Needleman_WunschV2\NW_V2.cpp(207,9): warning C4101: 'gap_penalty': variable local sin referencia
-  Needleman_WunschV2.vcxproj -> D:\Universidad\Semestre 9\Biologia\Needleman_WunschV2\x64\Debug\Needleman_WunschV2.exe
