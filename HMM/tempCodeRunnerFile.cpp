@@ -1,0 +1,1 @@
+std::cout <<char('a'+j)<<"="
